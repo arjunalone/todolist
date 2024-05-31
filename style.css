@@ -1,0 +1,7 @@
+body{
+    background-color:beige;
+    
+}
+.box {
+    background: linear-gradient(120deg, #2af598, #009efd) /* Your custom background color */
+}
